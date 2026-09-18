@@ -137,7 +137,7 @@
 
       // Build the email body in plain text
       const lines = [
-        'New inquiry from aeonhomecare.com',
+        'New inquiry from aeonhomehealth.com',
         '====================================',
         '',
         'Name: ' + (data.name || '(not provided)'),

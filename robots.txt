@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /js/
-Disallow: /css/
 
-Sitemap: https://aeonhomecare.com/sitemap.xml
+Sitemap: https://aeonhomehealth.com/sitemap.xml

@@ -1,0 +1,14 @@
+# Consolidate all hostnames onto aeonhomehealth.com
+https://aeonhome.care/*                https://aeonhomehealth.com/:splat  301
+https://www.aeonhome.care/*            https://aeonhomehealth.com/:splat  301
+https://www.aeonhomehealth.com/*       https://aeonhomehealth.com/:splat  301
+https://aeonhomecare.pages.dev/*       https://aeonhomehealth.com/:splat  301
+
+# Collapse .html URLs to extensionless
+/index.html          /            301
+/services.html       /services    301
+/about.html          /about       301
+/contact.html        /contact     301
+/careers.html        /careers     301
+/faq.html            /faq         301
+/sugar-land.html     /sugar-land  301
