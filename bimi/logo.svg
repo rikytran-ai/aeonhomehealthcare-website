@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 400 400">
+  <title>Aeon Home Health</title>
+  <desc>Aeon Home Health brand logo for BIMI</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#0E6E8C"/>
+  <path d="M200 50 L340 170 L310 170 L310 340 L90 340 L90 170 L60 170 Z" fill="#FFFFFF"/>
+  <text x="200" y="155" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" fill="#0E6E8C">Aeon</text>
+  <path d="M200 282 C186 268 148 238 148 206 C148 186 164 172 182 172 C190 172 197 176 200 182 C203 176 210 172 218 172 C236 172 252 186 252 206 C252 238 214 268 200 282 Z" fill="#0E6E8C"/>
+  <rect x="193" y="190" width="14" height="46" fill="#FFFFFF"/>
+  <rect x="177" y="206" width="46" height="14" fill="#FFFFFF"/>
+  <text x="200" y="322" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#0E6E8C">Home Health</text>
+</svg>
