@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://aeonhomehealth.com/</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://aeonhomehealth.com/services</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://aeonhomehealth.com/about</loc><lastmod>2026-09-18</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://aeonhomehealth.com/contact</loc><lastmod>2026-09-18</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://aeonhomehealth.com/faq</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://aeonhomehealth.com/careers</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://aeonhomehealth.com/sugar-land</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+<url><loc>https://aeonhomehealth.com/services</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aeonhomehealth.com/about</loc><lastmod>2026-09-18</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+<url><loc>https://aeonhomehealth.com/contact</loc><lastmod>2026-09-21</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/faq</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/careers</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://aeonhomehealth.com/privacy</loc><lastmod>2026-09-21</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+<url><loc>https://aeonhomehealth.com/areas</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/sugar-land</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/katy</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/pearland</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/missouri-city</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/bellaire</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/stafford</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/the-woodlands</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://aeonhomehealth.com/richmond</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/rosenberg</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/fulshear</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aeonhomehealth.com/spring</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
